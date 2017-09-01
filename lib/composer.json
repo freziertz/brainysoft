@@ -1,0 +1,12 @@
+{
+    "require": {        
+        "phpmailer/phpmailer": "^5.2",
+        "league/oauth2-google": "^1.0", 
+		 "monolog/monolog": "1.0.*",	
+		 "apache/log4php": "2.3.0"
+		}
+    
+    
+}
+
+
