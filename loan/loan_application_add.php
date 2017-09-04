@@ -437,14 +437,14 @@ include('../inc/header.php')
                                                                             </a>
                                                                         </li>
 																		<li>
-                                                                            <a href="#tab4" data-toggle="tab" class="step active">
+                                                                            <a href="#tab5" data-toggle="tab" class="step active">
                                                                                 <span class="number"> 4 </span>
                                                                                 <span class="desc">
                                                                                     <i class="fa fa-check"></i> Loan Contract </span>
                                                                             </a>
                                                                         </li>
                                                                         <li>
-                                                                            <a href="#tab5" data-toggle="tab" class="step">
+                                                                            <a href="#tab4" data-toggle="tab" class="step">
                                                                                 <span class="number"> 5 </span>
                                                                                 <span class="desc">
                                                                                     <i class="fa fa-check"></i> Confirm </span>
@@ -623,7 +623,7 @@ include('../inc/header.php')
 <!--END TAB 3 *********************************************************************************************************************************************************************-->
 <!--BEGIN TAB 4 *******************************************************************************************************************************************************************-->	
 			
-																		<div class="tab-pane" id="tab4">
+																		<div class="tab-pane" id="tab5">
                                                                             <h3 class="block">Contract Details</h3>	
 																			<div class="form-group">
                                                                                 <label class="control-label col-md-3">Contract Name
@@ -669,7 +669,7 @@ include('../inc/header.php')
                                                                         </div>
 <!--END TAB 4 *********************************************************************************************************************************************************************-->
 <!--BEGIN TAB 5 *******************************************************************************************************************************************************************-->																											
-                                                                        <div class="tab-pane" id="tab5">
+                                                                        <div class="tab-pane" id="tab4">
                                                                             <h3 class="block">Confirm Loan Details</h3>
                                                                             <h4 class="form-section">Loan Details</h4>
                                                                             <div class="form-group">
