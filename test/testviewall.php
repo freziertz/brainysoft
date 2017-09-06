@@ -17,7 +17,7 @@ $a= $event->viewtest($user_login);
 foreach ($a as $row) {
 	if ($row['tastetablevalue'] != NULL){
 		echo $row['tasttableid']." ".$row['tastetablevalue'];	
-	echo "<br />";
+	echo "a <br />";
 	}
 	
 }
